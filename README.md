@@ -46,6 +46,11 @@ This project focuses on analyzing credit card transaction data using Power BI. T
 6. **KPI Establishment**
     - Define and track key performance indicators (KPIs) to monitor the performance and trends.
 
+## Project Screenshot
+![cc_page-0001](https://github.com/user-attachments/assets/0ca12dfc-ef4d-4b51-ada5-7ecbbff247be)
+
+![cc_page-0002](https://github.com/user-attachments/assets/889faede-dd5d-45cb-bb2c-3e08752460bf)
+
 ## Github
 https://github.com/dashboard
 
